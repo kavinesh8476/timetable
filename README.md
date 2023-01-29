@@ -102,5 +102,8 @@ Execute the program
    </body>
 </html
 ```
-# OUPUT
+# OUTPUT
 ![timetable](outputtimetable.png)
+
+# RESULT
+The program for creating  time table is completed successfully
